@@ -4,7 +4,6 @@
 body {
     font-family: 'Montserrat', sans-serif;
     text-align: center;
-    background: url('image.png') no-repeat center center/cover;
     backdrop-filter: blur(10px);
     padding: 0;
     margin: 0;
